@@ -1,4 +1,6 @@
 # jknotice
+[![](https://jitpack.io/v/ntaloventi/jknotice.svg)](https://jitpack.io/#ntaloventi/jknotice)
+
 Notification Made Simple
 
 >Gradle
