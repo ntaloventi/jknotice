@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="module_name">JK Notice</string>
+    <string name="notice_channel_id">JkNotice</string>
+    <string name="notice_channel_name">JkNotice</string>
+    <string name="notice_channel_desc">JkNotice</string>
+</resources>
