@@ -3,6 +3,7 @@
 
 Notification Made Simple
 
+
 >Gradle
 ```
 dependencies {
@@ -17,11 +18,11 @@ dependencies {
 
 >Example
 ```
-   Context context = MainActivity.this;
-   Intent intent = new Intent(context, OtherActivity.class);
-   int id = 1;
-   
-   JkNotice jkNotice = new JkNotice(context, intent, id);
-   jkNotice.setContent("Some Title", "Some Body", "Header");
-   jkNotice.showNotice();
+Context context = MainActivity.this;
+Intent intent = new Intent(context, OtherActivity.class);
+int id = 1;
+
+JkNotice jkNotice = new JkNotice(context, intent, id);
+jkNotice.setContent("Some Title", "Some Body", "Header");
+jkNotice.showNotice();
 ```
