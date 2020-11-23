@@ -5,6 +5,8 @@
 
 [![Github all releases](https://img.shields.io/github/downloads/ntaloventi/jknotice/total.svg)](https://GitHub.com/ntaloventi/jknotice/releases/)
 
+![Java CI with Gradle](https://github.com/ntaloventi/jknotice/workflows/Java%20CI%20with%20Gradle/badge.svg)
+
 
 Notification Made Simple
 
