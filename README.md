@@ -1,6 +1,11 @@
 # jknotice
 [![](https://jitpack.io/v/ntaloventi/jknotice.svg)](https://jitpack.io/#ntaloventi/jknotice)
 
+[![GitHub release](https://img.shields.io/github/release/ntaloventi/jknotice.svg)](https://github.com/ntaloventi/jknotice/releases/)
+
+[![Github all releases](https://img.shields.io/github/downloads/ntaloventi/jknotice/total.svg)](https://GitHub.com/ntaloventi/jknotice/releases/)
+
+
 Notification Made Simple
 
 
