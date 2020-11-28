@@ -9,7 +9,7 @@ Notification Made Simple
 >Gradle
 ```
 dependencies {
-   api 'com.github.ntaloventi:jknotice:0.1.2
+   api 'com.github.ntaloventi:jknotice:0.1.2'
 }
 ```
 
